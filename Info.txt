@@ -1,6 +1,0 @@
-- HTML5, CSS3 og JS
-- Responsiv
-
-- Luftballonger
-- The Road (heter siden)
-- Animasjon
